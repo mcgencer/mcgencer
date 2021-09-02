@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://iconape.com/wp-content/files/su/21038/png/android-developers.png" height="50px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" height="50px"/></a>
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 
