@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://developer.android.com/images/social/android-developers.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfMiprPw9tgdgPO6ja3zcMS9O-CFjywrL_3A&usqp=CAU" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muratcan</h1>
 <h3 align="center">I'm a passionate Mobile Developer from Turkey.</h3>
