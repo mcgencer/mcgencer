@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcgencer)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **mcgencer/mcgencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
