@@ -9,7 +9,7 @@
 
 - 🔭 I am currently working on the mobile application **Get It Done**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures, Algorithms and Unity**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
