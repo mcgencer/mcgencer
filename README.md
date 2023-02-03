@@ -26,9 +26,10 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://codeigniter.com/" target="_blank"> <img src="https://icons8.com/icon/DtBPN1O4CCnF/codeigniter" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://www.php.net/" target="_blank"> <img src="https://icons8.com/icon/fAMVO_fuoOuC/php-logo"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://icons8.com/icon/UFXRpPFebwa2/mysql-logo"/> </a> 
+    <a href="https://codeigniter.com/" target="_blank"> <img src="https://icons8.com/icon/DtBPN1O4CCnF/codeigniter" width="45" height="45"/> </a>   
+    <a href="https://www.php.net/" target="_blank"> <img src="https://icons8.com/icon/fAMVO_fuoOuC/php-logo.png"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank"> <img src="![Uploading image.png…]()
+"/> </a> 
     
     
 </p>
