@@ -7,15 +7,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I am currently working on the mobile application **Get It Done**
 
-- 🌱 I’m currently learning **Data Structures, Algorithms and Unity**
+- 🌱 I’m currently learning **Data Structures, Algorithms and Backend **
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **muratcangencer1@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
 
@@ -26,12 +24,11 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> </a> 
     <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://sqlitebrowser.org" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/database.png"/> </a> 
+    <a href="https://codeigniter.com/" target="_blank"> <img src="https://icons8.com/icon/DtBPN1O4CCnF/codeigniter" alt="postman" width="45" height="45"/> </a>   
+    <a href="https://www.php.net/" target="_blank"> <img src="https://icons8.com/icon/fAMVO_fuoOuC/php-logo"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://icons8.com/icon/UFXRpPFebwa2/mysql-logo"/> </a> 
     
     
 </p>
